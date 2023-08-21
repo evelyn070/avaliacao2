@@ -34,3 +34,12 @@ position:relative ;
     display: flex;
     align-items: center;
 }
+@media screen and (min-width:1024px) {
+   .titulo_cabeçalho{
+    font-size:30px;
+    font-family: var(--font-secundaria);
+    color: red;
+  display: block;
+   }
+   
+}
